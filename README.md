@@ -1,3 +1,5 @@
+ORIGIN:
+https://wordpress.org/plugins/content-mirror/
 === Content Mirror ===
 Contributors: stratoponjak
 Donate link: http://klasehnemark.com/wordpress-plugins
